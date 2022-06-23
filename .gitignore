@@ -1,0 +1,20 @@
+# junk
+.DS_Store
+.idea/
+
+# python
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# java
+*.class
+
+# dotenv
+.env
+
+*.log
+output.txt
+GRADE.txt
+/submission
+*.pkl
